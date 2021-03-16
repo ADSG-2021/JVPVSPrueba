@@ -21,5 +21,10 @@ namespace JVPVSPrueba
         {
             //Esto es un botón
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Esto es otro botón
+        }
     }
 }
